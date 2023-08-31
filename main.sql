@@ -53,6 +53,8 @@ WHERE email = 'krithvik@gmail.com';
 -- IN (value1, value2, value3, value4)
 -- LIKE pattern (% => any number of characters, _ => one character)2
 -- =, <>, >, <, >=, <=
+-- LENGTH(string) or LEN(string) = no of bytes in string
+-- CHAR_LENGTH(string) = no of characters in string
 
 -- Getting data from table
 SELECT * FROM student;
